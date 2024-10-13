@@ -18,8 +18,6 @@ O Flutter me fascinou pela sua capacidade de criar aplicativos bonitos, fluidos 
 
 ## 📊 Minhas Estatísticas no GitHub:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcossbbatista&show_icons=true&theme=radical)](https://github.com/marcossbbatista)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossbbatista&layout=compact&theme=radical)](https://github.com/marcossbbatista)
 
 ---
