@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Flutter+%26+Dart+%F0%9F%9A%80;Construindo+apps+multiplataforma;Sempre+aprendendo+algo+novo;Vamos+codar+juntos%3F+%F0%9F%98%8E" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=marcossbbatista&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=0175C2&style=flat" alt="visitor badge"/>
-
 </div>
 
 ---
@@ -29,13 +27,21 @@ Também escrevo sobre Flutter no [Medium](https://medium.com/@marcos.dart), comp
 </td>
 <td width="50%" valign="top">
 
-### 📊 Estatísticas no GitHub
+### 📈 Streak de Contribuições
 
-<img src="https://github-readme-stats-lovat-eight.vercel.app/api/top-langs/?username=marcossbbatista&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=marcossbbatista&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+---
+
+### 🚀
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB3dW0wYnplajQ3MXBiYWdkbm10ZHl6cWtxdHFkZzh5b2xzZ3NtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1APdWPlG8hSToDOTkR/giphy.gif" alt="rocket launch animation" width="300"/>
+</div>
 
 ---
 
@@ -68,20 +74,16 @@ Também escrevo sobre Flutter no [Medium](https://medium.com/@marcos.dart), comp
 
 ### 🌍 Onde me encontrar
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcossbbatista" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@marcos.dart" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://www.instagram.com/marcossbbatista" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/marcossbbatista" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+
+| | Rede | Link |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=linkedin" width="28"/> | **LinkedIn** | [/in/marcossbbatista](https://www.linkedin.com/in/marcossbbatista) |
+| <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="24"/> | **Medium** | [@marcos.dart](https://medium.com/@marcos.dart) |
+| <img src="https://skillicons.dev/icons?i=instagram" width="28"/> | **Instagram** | [@marcossbbatista](https://www.instagram.com/marcossbbatista) |
+| <img src="https://skillicons.dev/icons?i=github" width="28"/> | **GitHub** | [@marcossbbatista](https://github.com/marcossbbatista) |
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=100&section=footer" width="100%"/>
