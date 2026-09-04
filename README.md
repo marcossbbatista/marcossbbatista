@@ -20,9 +20,13 @@ Tenho interesse particular em como o Flutter permite entregar aplicativos nativo
 
 Também escrevo sobre Flutter no [Medium](https://medium.com/@marcos.dart), compartilhando o que vou aprendendo pelo caminho.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
+<table align="center" bgcolor="#000000">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
