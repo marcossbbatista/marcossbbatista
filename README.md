@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=150&section=header" width="100%"/>
-
-<img src="https://github.com/marcossbbatista.png" width="120" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/main/starfield.svg" alt="starfield" width="100%"/>
 
 <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Marcos%20Batista%20🚀&width=700&height=160" alt="Marcos Batista"/>
 
