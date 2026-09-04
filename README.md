@@ -30,7 +30,7 @@ Tenho interesse particular em como o Flutter permite entregar aplicativos nativo
 ### 📊 Estatísticas no GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossbbatista&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats-lovat-eight.vercel.app/api/top-langs/?username=marcossbbatista&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
