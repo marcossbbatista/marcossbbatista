@@ -2,19 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/main/starfield.svg" alt="starfield" width="100%"/>
 
-<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Marcos%20Batista%20🚀&width=700&height=160" alt="Marcos Batista"/>
+# Marcos Batista 🚀
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Flutter+%26+Dart+%F0%9F%9A%80;Construindo+apps+multiplataforma;Sempre+aprendendo+algo+novo;Vamos+codar+juntos%3F+%F0%9F%98%8E" alt="Typing SVG" />
 </a>
-
-<table align="center" bgcolor="#000000">
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
-</td>
-</tr>
-</table>
 
 </div>
 
