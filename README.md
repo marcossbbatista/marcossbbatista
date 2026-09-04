@@ -12,10 +12,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 👨‍💻 Sobre mim
 
 Formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile. Atualmente aprofundando conhecimentos em **Flutter**, construindo aplicativos multiplataforma que unem boa experiência do usuário, performance e código limpo.
@@ -24,23 +20,8 @@ Tenho interesse particular em como o Flutter permite entregar aplicativos nativo
 
 Também escrevo sobre Flutter no [Medium](https://medium.com/@marcos.dart), compartilhando o que vou aprendendo pelo caminho.
 
-</td>
-<td width="50%" valign="top">
-
-### 📈 Streak de Contribuições
-
-<img src="https://streak-stats.demolab.com?user=marcossbbatista&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🚀
-
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB3dW0wYnplajQ3MXBiYWdkbm10ZHl6cWtxdHFkZzh5b2xzZ3NtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1APdWPlG8hSToDOTkR/giphy.gif" alt="rocket launch animation" width="300"/>
+  <img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 ---
@@ -64,25 +45,24 @@ Também escrevo sobre Flutter no [Medium](https://medium.com/@marcos.dart), comp
 
 ---
 
-### 🐍 Minha atividade no GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
-
----
-
 ### 🌍 Onde me encontrar
 
 <div align="center">
-
-| | Rede | Link |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=linkedin" width="28"/> | **LinkedIn** | [/in/marcossbbatista](https://www.linkedin.com/in/marcossbbatista) |
-| <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="24"/> | **Medium** | [@marcos.dart](https://medium.com/@marcos.dart) |
-| <img src="https://skillicons.dev/icons?i=instagram" width="28"/> | **Instagram** | [@marcossbbatista](https://www.instagram.com/marcossbbatista) |
-| <img src="https://skillicons.dev/icons?i=github" width="28"/> | **GitHub** | [@marcossbbatista](https://github.com/marcossbbatista) |
-
+  <a href="https://www.linkedin.com/in/marcossbbatista" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@marcos.dart" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="40" alt="Medium"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/marcossbbatista" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/marcossbbatista" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
 </div>
 
 <div align="center">
