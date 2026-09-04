@@ -1,33 +1,56 @@
-# Olá! Eu sou o Marcos 👋
+<h1 align="center">Olá, eu sou o Marcos 👋</h1>
 
-👨‍💻 **Sobre mim:**  
-Sou formado em Análise de Sistemas e apaixonado por desenvolvimento mobile. Recentemente, comecei a explorar o mundo incrível do Flutter 🚀, onde estou construindo projetos que misturam inovação, praticidade e desempenho.
-
-📱 **Por que Flutter?**  
-O Flutter me fascinou pela sua capacidade de criar aplicativos bonitos, fluidos e multiplataforma com um único código. Estou animado para compartilhar meu progresso e meus aprendizados aqui no GitHub. Vamos codar juntos? 😎
+<p align="center">
+  Desenvolvedor Mobile | Flutter & Dart
+</p>
 
 ---
 
-## ⚡ Tecnologias & Ferramentas:
-- Flutter & Dart
-- Firebase
-- Git & GitHub
-- Android & iOS Development
+### 👨‍💻 Sobre mim
+
+Formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile. Atualmente aprofundando conhecimentos em **Flutter**, construindo aplicativos multiplataforma que unem boa experiência do usuário, performance e código limpo.
+
+Tenho interesse particular em como o Flutter permite entregar aplicativos nativos para Android e iOS a partir de uma única base de código, e uso o GitHub para documentar meu progresso, projetos pessoais e aprendizados ao longo do caminho.
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub:
+### ⚡ Tecnologias & Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossbbatista&layout=compact&theme=radical)](https://github.com/marcossbbatista)
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+</p>
 
 ---
 
-## 🌍 Onde me encontrar:
+### 📊 Estatísticas no GitHub
 
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcossbbatista)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcossbbatista)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcossbbatista)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossbbatista&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-✨ Vamos transformar ideias em código! Se você também gosta de Flutter ou quer trocar ideias sobre desenvolvimento mobile, fique à vontade para me seguir nas redes sociais ou contribuir com meus projetos.
+### 🌍 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcossbbatista" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/marcossbbatista" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/marcossbbatista" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 Aberto a colaborações, trocas de ideias e novas oportunidades em desenvolvimento mobile.
+</p>
