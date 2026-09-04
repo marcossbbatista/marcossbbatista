@@ -29,17 +29,6 @@ Também escrevo sobre Flutter no [Medium](https://medium.com/@marcos.dart), comp
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
-</p>
-
 ### 📊 Estatísticas no GitHub
 
 <img src="https://github-readme-stats-lovat-eight.vercel.app/api/top-langs/?username=marcossbbatista&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%"/>
@@ -47,6 +36,25 @@ Também escrevo sobre Flutter no [Medium](https://medium.com/@marcos.dart), comp
 </td>
 </tr>
 </table>
+
+---
+
+### ⚡ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,androidstudio,figma&theme=dark" alt="Tech Stack"/>
+</div>
+<br/>
+
+`Flutter`&nbsp;&nbsp;███████████████████░&nbsp;&nbsp;95%
+<br/>
+`Dart`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████████████████░&nbsp;&nbsp;90%
+<br/>
+`Firebase`&nbsp;&nbsp;&nbsp;███████████████░░░░░&nbsp;&nbsp;75%
+<br/>
+`Git`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████████████░░░░░&nbsp;&nbsp;75%
+<br/>
+`Android`&nbsp;&nbsp;&nbsp;&nbsp;███████████░░░░░░░░░&nbsp;&nbsp;60%
 
 ---
 
