@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=200&section=header&text=Marcos%20Batista&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Mobile%20%7C%20Flutter%20%26%20Dart&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=150&section=header" width="100%"/>
+
+# Olá, eu sou o Marcos 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Flutter+%26+Dart+%F0%9F%9A%80;Construindo+apps+multiplataforma;Sempre+aprendendo+algo+novo;Vamos+codar+juntos%3F+%F0%9F%98%8E" alt="Typing SVG" />
