@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/marcossbbatista/marcossbbatista/main/starfield.svg" alt="starfield" width="100%"/>
 
-# Marcos Batista 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=1&pause=100000&color=0175C2&center=true&vCenter=true&width=500&height=70&lines=Marcos+Batista" alt="Marcos Batista"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Flutter+%26+Dart+%F0%9F%9A%80;Construindo+apps+multiplataforma;Sempre+aprendendo+algo+novo;Vamos+codar+juntos%3F+%F0%9F%98%8E" alt="Typing SVG" />
